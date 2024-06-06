@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jaime\\source\\repos\\WebApi91\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|c:\\users\\jaime\\source\\repos\\webapi91\\webapi91\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|solutionrelative:webapi91\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|c:\\users\\jaime\\source\\repos\\webapi91\\webapi91\\services\\iautoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|solutionrelative:webapi91\\services\\iautoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|c:\\users\\jaime\\source\\repos\\webapi91\\webapi91\\services\\autoresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|solutionrelative:webapi91\\services\\autoresservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|c:\\users\\jaime\\source\\repos\\webapi91\\webapi91\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C452F485-DC70-4DD4-B4D0-5E7F829B0E87}|WebApi91\\WebApi91.csproj|solutionrelative:webapi91\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 293,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "WebApi91\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "WebApi91\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T00:15:38.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAutoreService.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\IAutoreService.cs",
+              "RelativeDocumentMoniker": "WebApi91\\Services\\IAutoreService.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\IAutoreService.cs",
+              "RelativeToolTip": "WebApi91\\Services\\IAutoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:06:03.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "WebApi91\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "WebApi91\\Controllers\\AutoresController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:06:23.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoresServices.cs",
+              "DocumentMoniker": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\AutoresServices.cs",
+              "RelativeDocumentMoniker": "WebApi91\\Services\\AutoresServices.cs",
+              "ToolTip": "C:\\Users\\jaime\\source\\repos\\WebApi91\\WebApi91\\Services\\AutoresServices.cs",
+              "RelativeToolTip": "WebApi91\\Services\\AutoresServices.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDcAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:52:46.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
